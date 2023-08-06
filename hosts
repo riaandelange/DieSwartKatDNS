@@ -45,3 +45,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.heraldweekly.com
 0.0.0.0 www.outbrain.com
 0.0.0.0 outbrain.com
+
+# Netwerk24 / Naspers
+0.0.0.0 evt.24.com
+
