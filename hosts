@@ -28,7 +28,7 @@ ff02::3 ip6-allhosts
 
 # Custom host records are listed here.
 
-192.168.1.1 unifi.local
+# 192.168.1.1 unifi.local
   
 # End of custom host records.
 # Start DieSwartKatDNS
